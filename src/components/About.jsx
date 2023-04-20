@@ -1,5 +1,5 @@
 import React from 'react';
-import Showcase from './ShowCase';
+import Showcase from './Showcase';
 import { useInView } from 'react-intersection-observer';
 
 const About = () => {
