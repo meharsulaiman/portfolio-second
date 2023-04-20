@@ -28,7 +28,7 @@ const About = () => {
           value="Mehar Sulaiman"
           title="Whatsapp"
           iconProp="fa-brands fa-whatsapp"
-          link="https://wa.me/+92307037784"
+          link="https://wa.me/+923070377842"
         />
         <Showcase
           value="03457026416"
